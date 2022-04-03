@@ -1,0 +1,23 @@
+.order__processing-text {
+	font-weight: bold;
+	margin: 1rem auto;
+	padding: 1rem;
+	border-radius: 12px;
+	background-color: rgba(255, 255, 255, 0.2);
+	margin-top: 5rem;
+}
+
+.no__order-header {
+	margin-top: 3rem;
+	margin-left: 3rem;
+	color: rgba(255, 255, 255, 0.6);
+}
+.no__order-link {
+	text-decoration: none;
+	color: #fff;
+	text-transform: uppercase;
+}
+
+.no__order-link:hover {
+	color: #f15a25;
+}

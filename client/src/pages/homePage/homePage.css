@@ -1,0 +1,30 @@
+.homepage__contianer {
+	width: 100vw;
+	height: 90vh;
+	background: url('https://www.helder-id.com/wp-content/uploads/2018/04/ETNA-CT_Webheader-min.jpg')
+		no-repeat fixed center/cover;
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-end;
+	align-items: center;
+	position: relative;
+}
+
+.homepage__container-text {
+	position: absolute;
+	left: 48%;
+	bottom: 50px;
+	font-size: 2rem;
+	color: black;
+	font-weight: bold;
+	margin: 1rem auto;
+	padding: 1rem;
+	border-radius: 12px;
+	background-color: rgba(255, 255, 255, 0.2);
+}
+
+.homepage__container-text a {
+	text-decoration: none;
+	color: rgb(23, 3, 3);
+	cursor: pointer;
+}
